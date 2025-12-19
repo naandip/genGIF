@@ -1,8 +1,8 @@
-# GIFgen 🖼️✨
+# genGIF
 
 **Transform natural language prompts, style choices, and optional initial images into animated GIFs using the power of the Wan 2.1 and AI-driven prompt enhancement.**
 
-GIFgen offers a pipeline to generate unique GIFs by interpreting your creative ideas. It enhances your input prompts, allows for artistic style selection, and can optionally use an uploaded image as a starting point for the animation.
+genGIF offers a pipeline to generate unique GIFs by interpreting your creative ideas. It enhances your input prompts, allows for artistic style selection, and can optionally use an uploaded image as a starting point for the animation.
 
 ---
 
